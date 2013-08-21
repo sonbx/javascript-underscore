@@ -1,5 +1,3 @@
-**default**
+**Underscore - Requirejs**
+An example of using underscore and requirejs
 
-基本的なプロジェクトレイアウトのテンプレートです
-
-0から作成する時はこのテンプレートを使用します。
